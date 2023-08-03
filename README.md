@@ -37,7 +37,7 @@ $ docker compose up -d
 $ yarn install
 ```
 
-## Running the app
+## Iniciar la app
 
 ```bash
 $ yarn start:dev
